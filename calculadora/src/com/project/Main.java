@@ -19,7 +19,7 @@ public class Main {
         String operacion = sc.nextLine();
         if (operacion.equalsIgnoreCase("suma")){
             while (true){
-
+                    System.out.println("*");
             }
         }if(operacion.equalsIgnoreCase("resta")){
             System.out.println("esto es una resta");
